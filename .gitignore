@@ -1,0 +1,6 @@
+test/UnitTest/obj/
+test/UnitTest/bin/
+src/TextStatistics/obj/
+test/UnitTestLegacy/bin/
+test/UnitTestLegacy/obj/
+src/TextStatistics/bin/
